@@ -2,23 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f623763d-eaa8-4f87-88cc-777ff87d5151" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Search.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/icomoon.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/icomoon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/icomoon.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/icomoon.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/S1back.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/S2back.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/S4back.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/S5back.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/S6back.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Shape 1.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/s2_img1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/s2_img2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/s6men.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/normalize.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/main.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,14 +57,37 @@
       <workItem from="1605301037757" duration="198000" />
       <workItem from="1605371624146" duration="5678000" />
       <workItem from="1605377639061" duration="1320000" />
-      <workItem from="1605428125289" duration="42445000" />
+      <workItem from="1605428125289" duration="43499000" />
     </task>
+    <task id="LOCAL-00001" summary="Exam1">
+      <created>1605475198621</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605475198621</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Exam1">
+      <created>1605475267052</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605475267052</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Exam1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exam1" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1605475266223">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1605475266223" />
     <state x="438" y="190" key="EditFileWatcherDialog" timestamp="1605282764675">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -88,6 +96,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1605434326621" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1605475271545">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1605475271545" />
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605475229563">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1605475229563" />
     <state x="0" y="358" width="693" height="426" key="dock-window-1" timestamp="1605453453852">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

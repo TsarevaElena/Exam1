@@ -1001,21 +1001,21 @@ footer .footer_h1 {
 }
 @media screen and (max-width: 770px) {
   footer .footer_h1 {
-    padding-top: 40px;
+    padding-top: 100px;
   }
 }
 @media screen and (max-width: 770px) and (max-width: 430px) {
   footer .footer_h1 {
     font-size: 16px;
     line-height: 20px;
-    padding-top: 30px;
+    padding-top: 80px;
   }
 }
 @media screen and (max-width: 770px) and (max-width: 430px) and (max-width: 330px) {
   footer .footer_h1 {
     font-size: 13px;
     line-height: 15px;
-    padding-top: 20px;
+    padding-top: 60px;
   }
 }
 footer .footer_h2 {
