@@ -28,6 +28,9 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+$ffJosefin: 'Josefin Sans', sans-serif;
+$ffAleo:  'Aleo', serif;
+
 body{
   margin: auto;
 
@@ -55,7 +58,7 @@ body{
     }
 
     .s1_h1 {
-      font-family: 'Josefin Sans', sans-serif;
+      font-family: $ffJosefin;
       font-size: 48px;
       line-height: 26px;
       margin: 0;
@@ -75,8 +78,7 @@ body{
       }
     }
     .s1_p1{
-      font-family:'Josefin Sans', sans-serif;
-      font-size: 22px;
+      font-family: $ffJosefin;
       line-height: 26px;
       letter-spacing: 0.32em;
       margin: 0;
@@ -126,7 +128,7 @@ input{
   }
 }
   ::placeholder{
-      font-family:'Josefin Sans', sans-serif;
+      font-family: $ffJosefin;
       font-size: 14px;
       line-height: 26px;
       letter-spacing: 0.20em;
@@ -146,7 +148,7 @@ input{
     border: 2px solid white;
     background: #5474FD;
     color: white;
-    font-family: 'Aleo', serif;
+    font-family: $ffAleo;
     font-size: 14px;
     line-height: 26px;
     letter-spacing: 0.10em;
@@ -178,7 +180,7 @@ input{
     background: linear-gradient(to bottom, rgba(30,87,153,0) 0%,rgba(30,87,153,0.8) 15%,rgba(30,87,153,1) 19%,rgba(30,87,153,1) 20%,rgba(41,137,216,1) 50%,rgba(30,87,153,1) 80%,rgba(30,87,153,1) 81%,rgba(30,87,153,0.8) 85%,rgba(30,87,153,0) 100%);
   }
   .scroll{
-    font-family: 'Josefin Sans', sans-serif;
+    font-family: $ffJosefin;
     font-size: 14px;
     line-height: 26px;
     letter-spacing: 0.20em;
@@ -213,7 +215,7 @@ input{
       }
     }
       .logo {
-        font-family: 'Josefin Sans', sans-serif;
+        font-family: $ffJosefin;
         font-size: 24px;
         line-height: 26px;
         letter-spacing: 0.10em;
@@ -233,7 +235,7 @@ input{
   }
       .link {
         padding-right: 40px;
-        font-family: 'Aleo', serif;
+        font-family: $ffAleo;
         font-size: 14px;
         line-height: 26px;
         text-transform: uppercase;
@@ -281,7 +283,7 @@ input{
   }
 
   .s2_h1 {
-    font-family: 'Aleo', serif;
+    font-family: $ffAleo;
     font-size: 36px;
     line-height: 26px;
     color: white;
@@ -303,7 +305,7 @@ input{
   }
 
   .s2_p2 {
-    font-family: 'Josefin Sans', sans-serif;
+    font-family: $ffJosefin;
     font-size: 16px;
     line-height: 26px;
     letter-spacing: 0.1em;
@@ -417,7 +419,7 @@ input{
   }
 a{
   text-decoration: none;
-  font-family: 'Aleo', serif;
+  font-family: $ffAleo;
   font-size: 36px;
   line-height: 26px;
   color: white;
@@ -488,7 +490,7 @@ a:last-child:hover{
   }
 }
   .s4_h3{
-    font-family: 'Josefin Sans', sans-serif;
+    font-family: $ffJosefin;
     font-size: 20px;
     line-height: 26px;
     letter-spacing: 0.075em;
@@ -509,7 +511,7 @@ a:last-child:hover{
     }
   }
   .s4_h1{
-    font-family: 'Josefin Sans', sans-serif;
+    font-family: $ffJosefin;
     font-size: 20px;
     line-height: 26px;
     text-transform: uppercase;
@@ -527,7 +529,7 @@ a:last-child:hover{
     }
   }
   .s4_p{
-    font-family: 'Josefin Sans', sans-serif;
+    font-family: $ffJosefin;
     font-size: 15px;
     line-height: 26px;
     color: white;
@@ -547,7 +549,7 @@ a:last-child:hover{
     height: 60px;
     background: linear-gradient(45deg, rgba(73, 107, 254, 1) 0%, rgba(73, 107, 254, 1) 41%, rgba(84, 116, 253, 1) 41%, rgba(84, 116, 253, 1) 100%);
     text-decoration: none;
-    font-family: 'Aleo', serif;
+    font-family: $ffAleo;
     font-size: 16px;
     line-height: 26px;
     letter-spacing: 0.075em;
@@ -620,7 +622,7 @@ main{
     }
   }
   .s4_h3{
-    font-family: 'Josefin Sans', sans-serif;
+    font-family: $ffJosefin;
     font-size: 20px;
     line-height: 26px;
     letter-spacing: 0.075em;
@@ -641,7 +643,7 @@ main{
     }
   }
   .s4_h1{
-    font-family: 'Josefin Sans', sans-serif;
+    font-family: $ffJosefin;
     font-size: 20px;
     line-height: 26px;
     text-transform: uppercase;
@@ -659,7 +661,7 @@ main{
     }
   }
   .s4_p{
-    font-family: 'Josefin Sans', sans-serif;
+    font-family: $ffJosefin;
     font-size: 15px;
     line-height: 26px;
     color: white;
@@ -679,7 +681,7 @@ main{
     height: 60px;
     background: linear-gradient(45deg, rgba(73, 107, 254, 1) 0%, rgba(73, 107, 254, 1) 41%, rgba(84, 116, 253, 1) 41%, rgba(84, 116, 253, 1) 100%);
     text-decoration: none;
-    font-family: 'Aleo', serif;
+    font-family: $ffAleo;
     font-size: 16px;
     line-height: 26px;
     letter-spacing: 0.075em;
@@ -727,7 +729,7 @@ main{
     }
   }
   .s6_h1{
-    font-family: 'Aleo', serif;
+    font-family: $ffAleo;
     font-size: 36px;
     line-height: 26px;
     color: white;
@@ -780,7 +782,7 @@ main{
   }
 }
  .s6_h2{
-   font-family: 'Josefin Sans', sans-serif;
+   font-family: $ffJosefin;
    font-size: 20px;
    line-height: 26px;
    color: white;
@@ -793,7 +795,7 @@ main{
    }
  }
   .s6_p{
-    font-family: 'Josefin Sans', sans-serif;
+    font-family: $ffJosefin;
     font-size: 16px;
     line-height: 26px;
     color: white;
@@ -831,7 +833,7 @@ footer{
 
 
 .footer_h1{
-  font-family: 'Josefin Sans', sans-serif;
+  font-family: $ffJosefin;
   font-size: 24px;
   line-height: 26px;
   color: white;
@@ -853,7 +855,7 @@ footer{
   }
 }
   .footer_h2{
-    font-family: 'Josefin Sans', sans-serif;
+    font-family: $ffJosefin;
     font-size: 16px;
     line-height: 26px;
     letter-spacing: 0.1em;
